@@ -22,7 +22,7 @@ The goal: build a strong Python foundation for a career in **Data Analytics / Da
 
 ## 🗂️ Curriculum
 
-| # | Notebook | Topics Covered | 
+| # | Notebook | Topics Covered |
 |---|----------|---------------|
 | 01 | [Getting Started](1_Getting_Started.ipynb) | Setting up Python, first program, `print()` |
 | 02 | [Python Terms](2_Python_Terms.ipynb) | Variables, expressions, statements, core terminology |
